@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nutankumari2254@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ncGL5Fe4g4i91SYA3gyMLXPT7f70d28N/view?usp=sharing](https://drive.google.com/file/d/1ncGL5Fe4g4i91SYA3gyMLXPT7f70d28N/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1ncGL5Fe4g4i91SYA3gyMLXPT7f70d28N/view?usp=sharing](Click here to see my resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
