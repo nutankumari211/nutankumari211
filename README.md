@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nutankumari211&label=Profile%20views&color=0e75b6&style=flat" alt="nutankumari211" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nutankumari211" alt="nutankumari211" /></a> </p>
+- 🔭 I’m currently working on **Chatbot project**
 
-- 🔭 I’m currently working on **a PWC Project**
-
-- 🌱 I’m currently learning **about Gitlab**
+- 🌱 I’m currently learning **about Gitlab,Angular**
 
 - 💬 Ask me about **React.js, Typescript, Javascript, Node.js,Sql, Mongodb,HTML,CSS and more**
 
